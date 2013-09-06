@@ -9,6 +9,6 @@ All of the tools necessary for administering JoSi via the adapter interface (Hip
 	- josi-admin/
 		- node_modules/
 			- josi-cron/
-		- scripts/		
+		- src/		
 			- help.coffee
 			- update.coffee
