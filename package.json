@@ -1,7 +1,7 @@
 {
   "name": "josi-admin",
   "description": "All of the tools necessary for administering hubot via the adapter interface (HipChat, IRC…) are managed in this package.",
-  "version": "0.0.1a",
+  "version": "0.0.2",
   "author": "Jolly Science",
   "license": "MIT",
   "keywords": [
