@@ -2,10 +2,7 @@
   "name": "josi-admin",
   "description": "All of the tools necessary for administering hubot via the adapter interface (HipChat, IRC…) are managed in this package.",
   "version": "0.0.1a",
-  "author": {
-    "name": "Tom Bell",
-    "email": "tomb@tomb.io"
-  },
+  "author": "Jolly Science",
   "license": "MIT",
   "keywords": [
     "hubot",
