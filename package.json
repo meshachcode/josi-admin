@@ -1,0 +1,44 @@
+{
+  "name": "josi-admin",
+  "description": "All of the tools necessary for administering hubot via the adapter interface (HipChat, IRC…) are managed in this package.",
+  "version": "0.0.3b",
+  "author": {
+    "name": "Jolly Science"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jollyscience/josi-admin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jollyscience/josi-admin/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "hubot-cron": "*",
+    "jsdom": "0.2.15",
+    "underscore": "1.3.3"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "script/test"
+  },
+  "readme": "### josi-admin\n\n[coming soon]\n\n\tnpm install josi-admin\n\nAll of the tools necessary for administering JoSi via the adapter interface (HipChat, IRC…) are managed in this package.\n\n\t- josi-admin/\n\t\t- node_modules/\n\t\t\t- josi-cron/\n\t\t- src/\t\t\n\t\t\t- help.coffee\n\t\t\t- update.coffee",
+  "readmeFilename": "README.md",
+  "_id": "josi-admin@0.0.3a",
+  "_from": "josi-admin@0.0.3a",
+  "dist": {
+    "shasum": "9f317c192f7950416f03100b74c2ca487ae5727f"
+  },
+  "_resolved": "https://registry.npmjs.org/josi-admin/-/josi-admin-0.0.3.tgz"
+}
