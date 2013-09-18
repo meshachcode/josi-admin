@@ -9,7 +9,6 @@
 Util = require "util"
 
 module.exports = (robot) ->
-
   robot.respond /show storage$/i, (msg) ->
     output = Util.inspect(robot.brain.data, false, 4)
     msg.send output
